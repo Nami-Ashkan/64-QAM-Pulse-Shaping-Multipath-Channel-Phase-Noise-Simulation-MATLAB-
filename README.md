@@ -132,7 +132,3 @@ Generates oscillator phase noise using a Wiener process model:
 ## Author
 Ashkan
 
----
-
-## License
-MIT License (recommended)
